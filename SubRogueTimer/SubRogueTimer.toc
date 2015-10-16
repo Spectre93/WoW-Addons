@@ -1,0 +1,12 @@
+## Interface: 50400
+## Title: SubRogueTimer
+## Author: Daniel Riraeyi@MagtheridonEU
+## Version: 1
+## Notes: Keeps track of rogue DoTs and displays your current damage for reapplication of your DoTs.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: HasteWeight,CritWeight,MasteryWeight,DamageWeight,AttackPowerWeight,SubRogueTimerxPosiFrame,SubRogueTimerFrameScaleFrame,BuffList,ClassBuffList, offsetHemorrhage, offsetSanguinaryVein, offsetSliceAndDice, offsetRecuperate 
+SubRogueTimer.xml
+SubRogueTimer.lua
+Options.xml
+Options.lua

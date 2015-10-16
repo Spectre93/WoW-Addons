@@ -1,3 +1,9 @@
+# Releases
+*Releases/
+*.txt
+Screenshots/
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

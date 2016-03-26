@@ -1,0 +1,14 @@
+## Author: Riraeyi @MagtheridonEU, Bathral @BlackhandEU, Kressilac @Duskwood
+## Interface: 60200
+## Notes: Keeps track of Shadow Priest DoTs and displays your current damage for reapplication of your DoTs.
+## SavedVariables: HasteWeight, CritWeight, MasteryWeight, DamageWeight, SpellpowerWeight, ShadowPriestDoTTimerxPosiFrame, ShadowPriestDoTTimerFrameScaleFrame, HideVEmbrace, HideOrbs, HidePInf, BuffList, HideMB, CooldownOffset, HideSoD, ClassBuffList, HideSWD, ShowMBOffCD, CalcHasteNew, HideDP, OffsetbuffscoreSWP, OffsetbuffscoreVT, HideNumberAboveVT, HideNumberAboveSWP, HideNumberAboveSaI, HideBuffscore, HideTimerVT, HideTimerSWP, HideTimerDP, HideIconVT, HideIconSWP, HideIconDP, ShowPIOffCD, ShowVEOffCD, Show_UVLSicon, ColorBuffsWithBuffScore, ShowDotsSoOutOffCombat, ShowEverythingOutOfCombat
+## Title: Shadow Priest DoT Timer
+## Version: 1.7g
+## X-Curse-Packaged-Version: v1.7g
+## X-Curse-Project-Name: shadow-priest-dot-timer
+## X-Curse-Project-ID: shadow-priest-dot-timer
+
+ShadowPriestDoTTimer.xml
+ShadowPriestDoTTimer.lua
+Options.xml
+Options.lua
